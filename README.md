@@ -1,8 +1,7 @@
 ### Olá, eu sou o Gabriel 👋
 
 Desenvolvo aplicativos desktop e ferramentas de sistema, principalmente para **Linux**.
-Gosto de software nativo, leve e direto ao ponto: um executável só, interface caprichada,
-sem depender de navegador.
+Gosto de software nativo.
 
 - 🦀 Hoje escrevo quase tudo em **Rust**; também uso Python, C/C++, TypeScript e Kotlin
 - 🖥️ Interfaces desktop nativas (egui, Qt), extensões de navegador e sites estáticos
@@ -12,9 +11,9 @@ sem depender de navegador.
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [**RDDownloader**](https://github.com/gabriel-catarini/RDDownloader) | Cliente desktop do Real-Debrid: cole um magnet ou solte um .torrent e baixe direto no PC. Windows e Linux, em 3 idiomas. | Python · Qt |
+| [**RDDownloader**](https://github.com/gabriel-catarini/RDDownloader) | Cliente desktop do Real-Debrid: cole um magnet ou solte um .torrent e baixe direto no PC. Windows e Linux, em 3 idiomas. | Python · Qt |gabriel-catarini
 | [**twitch-adblock**](https://github.com/gabriel-catarini/twitch-adblock) | Extensão Manifest V3 para Chrome e Firefox que bloqueia anúncios da Twitch, com foco em desempenho e qualidade do vídeo. | JavaScript |
-| [**meu-tasker**](https://github.com/gabriel-catarini/meu-tasker) | Pede sozinho o refill da Lidl Connect antes de o volume acabar. App nativo com tema claro e escuro, para Linux e Windows. | Rust |
+| [**meu-tasker**](https://github.com/gabriel-catarini/meu-tasker) | Pede sozinho o refill da Lidlgabriel-catarini Connect antes de o volume acabar. App nativo com tema claro e escuro, para Linux e Windows. | Rust |
 | [**Unidade-402-site**](https://github.com/gabriel-catarini/Unidade-402-site) | Visualizador 3D de um apartamento modelado no Blender, direto no navegador. | Three.js |
 
 #### Ferramentas
